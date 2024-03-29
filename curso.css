@@ -1,0 +1,32 @@
+body {
+    margin-top: 100px;
+    /* Adicione esta linha */
+}
+
+header {
+    position: flex;
+    top: 0;
+    width: 100%;
+    background-color: #ffffff;
+    padding: 1px;
+    text-align: center;
+    font-size: 35px;
+    color: black;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
